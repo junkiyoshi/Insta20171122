@@ -15,7 +15,6 @@ void ofApp::update() {
 	int deg_span = 10;
 	float radius = 30;
 	float radius_span = 15;
-	ofVec2f point1, point2, point3, point4;
 
 	this->fbo.begin();
 	ofClear(0);
